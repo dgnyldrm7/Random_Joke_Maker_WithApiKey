@@ -1,0 +1,38 @@
+.box{
+    width: 320px;
+    height: 180px;
+    padding: 40px;
+    background-color: skyblue;
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -70px;
+    box-shadow: 1px 1px 10px ;
+    border-radius: 15px;
+    background-color: #eec050;
+    text-align: center;
+    font-family : Centaur;
+}
+
+.btn{
+    margin: 15px 0 15px 0;
+    padding: 0 25px;
+    background-color: darkgoldenrod;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #947115;
+    transition: 0.1s ease-in-out;
+}
+
+.btn:active{
+    background-color: #332916;
+}
+
+h5{
+    color: white;
+    font-size: 11px;
+}
